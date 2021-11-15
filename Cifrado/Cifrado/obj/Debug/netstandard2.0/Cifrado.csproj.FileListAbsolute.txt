@@ -1,0 +1,9 @@
+C:\Users\IT\Desktop\Laboratorios\Lab_6\Lab_6\Cifrado\Cifrado\bin\Debug\netstandard2.0\Cifrado.deps.json
+C:\Users\IT\Desktop\Laboratorios\Lab_6\Lab_6\Cifrado\Cifrado\bin\Debug\netstandard2.0\Cifrado.dll
+C:\Users\IT\Desktop\Laboratorios\Lab_6\Lab_6\Cifrado\Cifrado\bin\Debug\netstandard2.0\Cifrado.pdb
+C:\Users\IT\Desktop\Laboratorios\Lab_6\Lab_6\Cifrado\Cifrado\obj\Debug\netstandard2.0\Cifrado.csprojAssemblyReference.cache
+C:\Users\IT\Desktop\Laboratorios\Lab_6\Lab_6\Cifrado\Cifrado\obj\Debug\netstandard2.0\Cifrado.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\Laboratorios\Lab_6\Lab_6\Cifrado\Cifrado\obj\Debug\netstandard2.0\Cifrado.AssemblyInfoInputs.cache
+C:\Users\IT\Desktop\Laboratorios\Lab_6\Lab_6\Cifrado\Cifrado\obj\Debug\netstandard2.0\Cifrado.AssemblyInfo.cs
+C:\Users\IT\Desktop\Laboratorios\Lab_6\Lab_6\Cifrado\Cifrado\obj\Debug\netstandard2.0\Cifrado.dll
+C:\Users\IT\Desktop\Laboratorios\Lab_6\Lab_6\Cifrado\Cifrado\obj\Debug\netstandard2.0\Cifrado.pdb

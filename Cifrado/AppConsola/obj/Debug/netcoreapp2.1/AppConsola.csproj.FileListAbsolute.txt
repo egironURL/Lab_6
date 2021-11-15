@@ -1,0 +1,14 @@
+C:\Users\IT\Desktop\Laboratorios\Lab_6\Lab_6\Cifrado\AppConsola\bin\Debug\netcoreapp2.1\AppConsola.deps.json
+C:\Users\IT\Desktop\Laboratorios\Lab_6\Lab_6\Cifrado\AppConsola\bin\Debug\netcoreapp2.1\AppConsola.runtimeconfig.json
+C:\Users\IT\Desktop\Laboratorios\Lab_6\Lab_6\Cifrado\AppConsola\bin\Debug\netcoreapp2.1\AppConsola.runtimeconfig.dev.json
+C:\Users\IT\Desktop\Laboratorios\Lab_6\Lab_6\Cifrado\AppConsola\bin\Debug\netcoreapp2.1\AppConsola.dll
+C:\Users\IT\Desktop\Laboratorios\Lab_6\Lab_6\Cifrado\AppConsola\bin\Debug\netcoreapp2.1\AppConsola.pdb
+C:\Users\IT\Desktop\Laboratorios\Lab_6\Lab_6\Cifrado\AppConsola\bin\Debug\netcoreapp2.1\Cifrado.dll
+C:\Users\IT\Desktop\Laboratorios\Lab_6\Lab_6\Cifrado\AppConsola\bin\Debug\netcoreapp2.1\Cifrado.pdb
+C:\Users\IT\Desktop\Laboratorios\Lab_6\Lab_6\Cifrado\AppConsola\obj\Debug\netcoreapp2.1\AppConsola.csprojAssemblyReference.cache
+C:\Users\IT\Desktop\Laboratorios\Lab_6\Lab_6\Cifrado\AppConsola\obj\Debug\netcoreapp2.1\AppConsola.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\Laboratorios\Lab_6\Lab_6\Cifrado\AppConsola\obj\Debug\netcoreapp2.1\AppConsola.AssemblyInfoInputs.cache
+C:\Users\IT\Desktop\Laboratorios\Lab_6\Lab_6\Cifrado\AppConsola\obj\Debug\netcoreapp2.1\AppConsola.AssemblyInfo.cs
+C:\Users\IT\Desktop\Laboratorios\Lab_6\Lab_6\Cifrado\AppConsola\obj\Debug\netcoreapp2.1\AppConsola.csproj.CopyComplete
+C:\Users\IT\Desktop\Laboratorios\Lab_6\Lab_6\Cifrado\AppConsola\obj\Debug\netcoreapp2.1\AppConsola.dll
+C:\Users\IT\Desktop\Laboratorios\Lab_6\Lab_6\Cifrado\AppConsola\obj\Debug\netcoreapp2.1\AppConsola.pdb
